@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "license_key": "ABC-123",
+      "expires": "2025-12-31",
+      "disabled": false,
+      "note": "Standard-Key"
+    },
+    {
+      "license_key": "TEST-999",
+      "expires": "2025-06-30",
+      "disabled": true,
+      "note": "deaktiviert"
+    }
+  ]
+}
