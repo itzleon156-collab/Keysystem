@@ -2,7 +2,7 @@
   "keys": [
     {
       "license_key": "GHZ-743",
-      "expires": "2025-11-10",
+      "expires": "2025-11-18",
       "disabled": false,
       "note": "Key von Jakob"
     },
@@ -14,9 +14,9 @@
     },
      {
       "license_key": "AdminKey",
-      "expires": "2025-12-31",
+      "expires": "2050-12-31",
       "disabled": false,
-      "note": "Standard-Key"
+      "note": "Admin-Key"
     }
   ]
 }
