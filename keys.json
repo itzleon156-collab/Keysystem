@@ -1,19 +1,19 @@
 {
   "keys": [
     {
-      "license_key": "ABC-123",
+      "license_key": "GHZ-743",
       "expires": "2025-11-10",
       "disabled": false,
-      "note": "Standard-Key"
+      "note": "Key von Jakob"
     },
     {
-      "license_key": "TEST-999",
+      "license_key": "TestKey",
       "expires": "2025-06-30",
       "disabled": true,
       "note": "deaktiviert"
     },
      {
-      "license_key": "TestKey",
+      "license_key": "AdminKey",
       "expires": "2025-12-31",
       "disabled": false,
       "note": "Standard-Key"
