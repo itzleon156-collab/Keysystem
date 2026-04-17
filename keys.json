@@ -1,22 +1,19 @@
 {
   "keys": [
     {
-      "license_key": "GHZ-743",
-      "expires": "2025-11-18",
-      "disabled": false,
-      "note": "Key von Jakob"
+      "key": "DEV-TEST-123",
+      "expires": "2030-12-31T23:59:59Z",
+      "disabled": false
     },
     {
-      "license_key": "TestKey",
-      "expires": "2025-06-30",
-      "disabled": true,
-      "note": "deaktiviert"
+      "key": "BETA-USER-456",
+      "expires": "2024-01-01T00:00:00Z",
+      "disabled": true
     },
-     {
-      "license_key": "AdminKey",
-      "expires": "2050-12-31",
-      "disabled": false,
-      "note": "Admin-Key"
+    {
+      "key": "PREMIUM-LIFETIME-789",
+      "expires": "2099-12-31T00:00:00Z",
+      "disabled": false
     }
   ]
 }
